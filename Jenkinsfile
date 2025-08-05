@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        AZURE_FUNCTIONAPP_NAME = 'shivanshfuncapp8983634'
+        AZURE_FUNCTIONAPP_NAME = 'Sumanth9040660'
     }
 
     stages {
